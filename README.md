@@ -27,7 +27,7 @@ Kashier payment gateway support for Odoo 15
 
 ### Installation
 
-- Download [kashier.zip](https://raw.githubusercontent.com/Kashier-payments/Kashier-Odoo-15-Payment-Add-on/main/payment_kashier.zip)
+- Download [kashier.zip](https://raw.githubusercontent.com/Kashier-payments/Kashier-Odoo-15-Payment-Add-on/main/kashier_payment.zip)
 
 - unzip the downloaded file and Add the Addon to your odoo server in the location `Odoo 15.0 > server > odoo > addons` or in the `custom_addon` location.
 
