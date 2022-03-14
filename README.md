@@ -2,8 +2,8 @@
 Kashier payment gateway support for Odoo 15
 
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Odoo-15-Payment-Add-on/master/kashier-logo.png)
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Odoo-15-Payment-Add-on/master/odoo-logo.png)
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Odoo-15-Payment-Add-on/main/kashier-logo.png)
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Odoo-15-Payment-Add-on/main/odoo-logo.png)
 
 ### Features
 
@@ -35,11 +35,11 @@ Kashier payment gateway support for Odoo 15
 
 - Update Your apps list.
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Odoo-15-Payment-Add-on/master/steps/update_apps_list.png)
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Odoo-15-Payment-Add-on/main/steps/update_apps_list.png)
 
 - Install Kashier Payment Add on.
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Odoo-15-Payment-Add-on/master/steps/kashier_addon_install.png.png)
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Odoo-15-Payment-Add-on/main/steps/kashier_addon_install.png.png)
 
 - Enable and Configure your kashier Addon by navigating `Invoicing > Configuration > Payments > Payment Aquirers`.
 
@@ -53,7 +53,7 @@ Kashier payment gateway support for Odoo 15
 
 - Copy Merchant ID visible under your user name "MID-xx-xx".
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Odoo-15-Payment-Add-on/master/steps/apikey_mid_test.png)
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Odoo-15-Payment-Add-on/main/steps/apikey_mid_test.png)
 
 - Insert the Merchant Id and Test Api Key in the Configuration page of the Kashier Add on.
 
@@ -63,19 +63,19 @@ Kashier payment gateway support for Odoo 15
 
 - Customize the name of the payment method.
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Odoo-15-Payment-Add-on/master/steps/module_configuration_plus.png)
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Odoo-15-Payment-Add-on/main/steps/module_configuration_plus.png)
 
 - Save configuration.
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Odoo-15-Payment-Add-on/master/steps/module_configuration_test.png)
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Odoo-15-Payment-Add-on/main/steps/module_configuration_test.png)
 
 ### Test plugin 
 
 - Proceed to make an order on your shop, a new payment method is added "Kashier Online Payment". it could be changed from Addon configuration.
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Odoo-15-Payment-Add-on/master/steps/module_test_payment_1.png)
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Odoo-15-Payment-Add-on/main/steps/module_test_payment_1.png)
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Odoo-15-Payment-Add-on/master/steps/module_test_payment_2.png)
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Odoo-15-Payment-Add-on/main/steps/module_test_payment_2.png)
 
 ### Go live
 
@@ -87,7 +87,7 @@ Kashier payment gateway support for Odoo 15
 
 - Generate a new api key with your prefered name that describes your integration channel, there is 1 default api key you could use that is created when signing up.
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Odoo-15-Payment-Add-on/master/steps/apikey_mid_live.png)
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Odoo-15-Payment-Add-on/main/steps/apikey_mid_live.png)
 
 - Insert Live Payment Api Key in the Configuration page of the Kashier Payment Addon.
 
@@ -95,7 +95,7 @@ Kashier payment gateway support for Odoo 15
 
 - Save configuration.
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Odoo-15-Payment-Add-on/master/steps/module_configuration_live.png)
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Odoo-15-Payment-Add-on/main/steps/module_configuration_live.png)
 
 ### Notes
 
