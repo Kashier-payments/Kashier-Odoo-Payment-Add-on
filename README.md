@@ -39,7 +39,7 @@ Kashier payment gateway support for Odoo 15
 
 - Install Kashier Payment Add on.
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Odoo-15-Payment-Add-on/main/steps/kashier_addon_install.png.png)
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Odoo-15-Payment-Add-on/main/steps/kashier_addon_install.png)
 
 - Enable and Configure your kashier Addon by navigating `Invoicing > Configuration > Payments > Payment Aquirers`.
 
