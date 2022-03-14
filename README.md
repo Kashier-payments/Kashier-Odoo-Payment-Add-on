@@ -2,8 +2,8 @@
 Kashier payment gateway support for Odoo 15
 
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Odoo-15-Payment-Add-on/main/kashier-logo.png)
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Odoo-15-Payment-Add-on/main/odoo-logo.png)
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Odoo-15-Payment-Add-on/main/steps/kashier-logo.png)
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Odoo-15-Payment-Add-on/main/steps/odoo-logo.png)
 
 ### Features
 
