@@ -27,7 +27,8 @@ Kashier payment gateway support for Odoo 16
 
 ### Installation
 
-- Download [kashier.zip](https://raw.githubusercontent.com/Kashier-payments/Kashier-Odoo-Payment-Add-on/v16/kashier_payment.zip)
+
+- Download [kashier.zip](https://raw.githubusercontent.com/Kashier-payments/Kashier-Odoo-Payment-Add-on/raw/v16/payment_kashier.zip)
 
 - unzip the downloaded file and Add the Addon to your odoo server in the location `Odoo 16.0 > server > odoo > addons` or in the `custom_addon` location.
 
