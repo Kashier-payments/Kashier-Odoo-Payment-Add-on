@@ -3,7 +3,6 @@ Kashier payment gateway support for Odoo 16
 
 
 ![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Odoo-Payment-Add-on/v16/steps/kashier-logo.png)
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Odoo-Payment-Add-on/v16/steps/odoo-logo.png)
 
 ### Features
 
